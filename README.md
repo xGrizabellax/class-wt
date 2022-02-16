@@ -1,9 +1,11 @@
 # Text Editor of the Highest Caliber ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-## HEADS UP!
-  ### *OUR ENTIRE CODING CLASS WORKED ON THIS TOGETHER*
-
   A text editor that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest to create a reactive and installable application.
+  
+  ## DISCLAIMER!
+  ### *OUR ENTIRE CODING CLASS WORKED ON THIS TOGETHER*
+  
+  
   
    [DEPLOYED APP ON HEROKU](<https://rampage-text-editor.herokuapp.com/>)
   
