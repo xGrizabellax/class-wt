@@ -2,7 +2,7 @@
 
   A text editor that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest to create a reactive and installable application.
   
-   [DEPLOYED APP ON HEROKU](<https://tranquil-earth-68039.herokuapp.com/>)
+   [DEPLOYED APP ON HEROKU](<https://rampage-text-editor.herokuapp.com/>)
   
  How the app looks when deploying on heroku:
 ![Screen Shot 2022-02-15 at 10 47 04 PM](https://user-images.githubusercontent.com/88065363/154198277-1039e107-6f47-4610-a4e6-a86b445d53d8.png)
