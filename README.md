@@ -1,6 +1,6 @@
 # Text Editor of the Highest Caliber ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-  *THIS WAS WORKED ON AS MY CLASS COMMUALY AND WE WORKED TOGETHER AS A COMMUINTY*
+  *THIS WAS WORKED ON AS MY CLASS COMMUNALY AND WE WORKED TOGETHER AS A COMMUINTY*
 
   A text editor that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest to create a reactive and installable application.
   
