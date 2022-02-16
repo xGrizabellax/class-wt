@@ -1,6 +1,11 @@
 # Text Editor of the Highest Caliber ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-  A text editor that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest to create a reactive and installable text editor.
+  A text editor that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest to create a reactive and installable application.
+  
+   [DEPLOYED APP ON HEROKU](<https://tranquil-earth-68039.herokuapp.com/>)
+  
+ How the app looks when deploying on heroku:
+![Screen Shot 2022-02-15 at 10 47 04 PM](https://user-images.githubusercontent.com/88065363/154198277-1039e107-6f47-4610-a4e6-a86b445d53d8.png)
 
   # Table of Contents:
   * [Installation](#installation)
@@ -13,7 +18,14 @@
 ---
 
   ## Installation:
-  No installation needed.
+  After clicking on the heroku link above, click the "install" button in the upper left-hand corner to install to your device.
+  
+  You should see a file on your device after clicking install:
+  ![Screen Shot 2022-02-15 at 10 48 22 PM](https://user-images.githubusercontent.com/88065363/154198717-d4288e26-6826-4f26-9f3f-91d36fe2c4f0.png)
+  
+  How it looks while opened with JATE:
+  ![Screen Shot 2022-02-15 at 10 48 32 PM](https://user-images.githubusercontent.com/88065363/154198809-6ab539b0-8bcf-47f4-b3db-934173c4b2ff.png)
+
 
   ## Usage:
   Text editing, taking notes, whatever you'd like!
